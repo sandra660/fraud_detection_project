@@ -1,5 +1,0 @@
-# Ignore large data files
-data/*.csv
-*.csv
-__pycache__/
-*.pyc

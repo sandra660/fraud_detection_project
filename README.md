@@ -9,10 +9,3 @@ DataOrbit has been contracted by the Centers for Medicare & Medicaid Services (C
 - Claims for deceased patients  
 - Unnecessary treatments and kickback schemes  
 
-## Team Members
-- **[sandra george]** – [13001357]  
-- **[Your Full Name 2]** – [Your Student ID]  
-- **[Your Full Name 3]** – [Your Student ID]  
-- **[Your Full Name 4]** – [Your Student ID]  
-
-## Repository Structure
